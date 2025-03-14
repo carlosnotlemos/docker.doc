@@ -12,8 +12,10 @@ Documentação Docker MYSQL 5.7 ~ FEEDORA
 -1	IMPORTANTE: Verifique atualizações na maquina....
 
 -1.2	Adicione o repositório oficial do Docker:
+
 ```bash
 $ sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
+```bash
 
 -2	Instale o Docker:
 ```bash
