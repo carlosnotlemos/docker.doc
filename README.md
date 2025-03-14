@@ -1,6 +1,28 @@
 # docker.doc 
 Documentação Docker MYSQL 5.7 ~ FEDORA SO
-<i class="devicon-fedora-plain colored"></i><i class="devicon-docker-plain-wordmark colored"></i><i class="devicon-mysql-plain-wordmark"></i>
+<p align="left">
+    <a href="https://www.instagram.com/carlim_11">
+        <img 
+            alt="Perfil do instagram" 
+            title="Instagram" 
+            src="https://skillicons.dev/icons?i=instagram"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/carlos-henrique-b33b78191">
+        <img 
+            alt="Perfil do linkedin" 
+            title="Linkedin" 
+            src="https://skillicons.dev/icons?i=linkedin"
+        />
+    </a>
+    <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcarlosnotlemos" >
+        <img 
+            alt="Perfil do GitHub" 
+            title="GitHub" 
+            src="https://skillicons.dev/icons?i=github"
+        />
+    </a>
+</p>
 
 # SO:     Fedora Server - Conexão
 # ip:     192.168.20.11
