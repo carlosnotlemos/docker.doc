@@ -1,25 +1,25 @@
 # docker.doc 
 Documentação Docker MYSQL 5.7 ~ FEDORA SO
 <p align="left">
-    <a href="https://www.instagram.com/carlim_11">
+    <a href="#">
         <img 
-            alt="Perfil do instagram" 
-            title="Instagram" 
-            src="https://skillicons.dev/icons?i=instagram"
+            alt="Docker" 
+            title="Docker" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
         />
     </a>
-    <a href="https://www.linkedin.com/in/carlos-henrique-b33b78191">
+    <a href="#">
         <img 
-            alt="Perfil do linkedin" 
-            title="Linkedin" 
-            src="https://skillicons.dev/icons?i=linkedin"
+            alt="MySQL" 
+            title="MySQL" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
         />
     </a>
-    <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcarlosnotlemos" >
+    <a href="#" >
         <img 
-            alt="Perfil do GitHub" 
-            title="GitHub" 
-            src="https://skillicons.dev/icons?i=github"
+            alt="Fedora" 
+            title="Fedora" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"
         />
     </a>
 </p>
