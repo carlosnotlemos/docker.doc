@@ -5,7 +5,7 @@ Documentação Docker MYSQL 5.7 ~ FEDORA SO
         <img 
             alt="Docker" 
             title="Docker"
-            width="30px" 
+            width="60px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
         />
@@ -14,7 +14,7 @@ Documentação Docker MYSQL 5.7 ~ FEDORA SO
         <img 
             alt="MySQL" 
             title="MySQL"
-            width="30px" 
+            width="60px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
         />
@@ -23,7 +23,7 @@ Documentação Docker MYSQL 5.7 ~ FEDORA SO
         <img 
             alt="Fedora" 
             title="Fedora"
-            width="30px" 
+            width="60px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"
         />
