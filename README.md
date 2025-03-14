@@ -38,25 +38,25 @@ Documentação Docker MYSQL 5.7 ~ FEDORA SO
 ---------------------------------------------
 #    INSTALAÇÃO DOCKER NA MAQUINA FEDORA
 
--1    **IMPORTANTE: Verifique atualizações na maquina....**
+**IMPORTANTE: Verifique atualizações na maquina....**
 
--1.2	**Adicione o repositório oficial do Docker:**
+**Adicione o repositório oficial do Docker:**
 ```bash
 $ sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
 ```
--2	**Instale o Docker:**
+**Instale o Docker:**
 ```bash
 $ sudo dnf install docker-ce docker-ce-cli containerd.io
 ```
--3	**Habilite o Docker para iniciar automaticamente na inicialização:**
+**Habilite o Docker para iniciar automaticamente na inicialização:**
 ```bash
 $ sudo systemctl enable docker
 ```
--4	**Verifique se o Docker está funcionando corretamente:**
+**Verifique se o Docker está funcionando corretamente:**
 ```bash
 $ sudo docker --version
 ```
--5	**Adicionar Sudo ao docker:**
+**Adicionar Sudo ao docker:**
 ```bash
 $ sudo usermod -aG docker $USER
 ```
