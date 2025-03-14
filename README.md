@@ -2,9 +2,9 @@
 Documentação Docker MYSQL 5.7 ~ FEDORA SO
 
 <p
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <i class="devicon-fedora-plain colored"></i>
+  <i class="devicon-docker-plain-wordmark colored"></i>
+  <i class="devicon-mysql-plain-wordmark"></i>
 </p>
 
 # SO:     Fedora Server - Conexão
