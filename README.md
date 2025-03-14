@@ -1,8 +1,6 @@
 # docker.doc 
 Documentação Docker MYSQL 5.7 ~ FEDORA SO
-<i class="devicon-fedora-plain colored"></i>
-<i class="devicon-docker-plain-wordmark colored"></i>
-<i class="devicon-mysql-plain-wordmark"></i>
+<i class="devicon-fedora-plain colored"></i><i class="devicon-docker-plain-wordmark colored"></i><i class="devicon-mysql-plain-wordmark"></i>
 
 # SO:     Fedora Server - Conexão
 # ip:     192.168.20.11
