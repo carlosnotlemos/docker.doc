@@ -63,23 +63,23 @@ $ sudo usermod -aG docker $USER
 -------------------------------------------
 #    REINICIE A MAQUINA APARTIR DAQUI
 
--1	**Verifique se está funcionando:**
+**Verifique se está funcionando:**
 ```bash
 $ docker run hello-world
 ###Obs: Digite sem sudo
 ```
--2	**Baixar imagem do MySQL 5.7:**
+**Baixar imagem do MySQL 5.7:**
 ```bash
 $ docker pull mysql:5.7
 ```
--3	**Instruções para criação da imagem:**
+**Instruções para criação da imagem:**
 ```bash
 $ docker run --name mysql-5.7-server -e MYSQL_ROOT_PASSWORD=rootpassword -e MYSQL_DATABASE=cerice -p 3306:3306 -d mysql:5.7
 ```
--4 	**Verifique se o Container está rodando:**
+**Verifique se o Container está rodando:**
 ```bash
 $ docker ps
-###Obs: Se o campo console estiver vazio, digite docker ps -a
+###Obs: Se o campo do console estiver vazio, digite: docker ps -a
 ```
 **!!! Processo Finalizado...**
 
@@ -88,19 +88,20 @@ $ docker ps
 
 Verificações:
 
--1	Verificar se docker está iniciando junto da inicialização do computador
+# -1	Verificar se docker está iniciando junto da inicialização do computador
 
--2 	Verificar como está a utilização de memoria e configurações basicas do docker de acordo com a utilização do sistema.
+# -2 	Verificar como está a utilização de memoria e configurações basicas do docker de acordo com a utilização do sistema.
 
 Implementações:
 
--1	Implementar atualização do log em tempo real no fedora/docker.
+**-1**	Implementar atualização do log em tempo real no fedora/docker.
 !! se possivel que esse arquivo fique salvo dentro do banco cerice ou do MYSQL para ficar acessível.
 
--2 	Implementar privilegios root para todos os usuarios da rede , independente do IP , verificar com Magno se isso é pertinente.
+**-2** 	Implementar privilegios root para todos os usuarios da rede , independente do IP , verificar com Magno se isso é pertinente.
+```bash
 $ GRANT ALL PRIVILEGES ON *.* TO 'root'@'192.168.%' IDENTIFIED BY 'rootpassword' WITH GRANT OPTION;
 $ FLUSH PRIVILEGES;
-
+```
 -------------------------------------------
 #   APLICAÇÕES PARA VERIFICAÇÕES
 
